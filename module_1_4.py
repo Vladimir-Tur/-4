@@ -1,10 +1,12 @@
-a = 'my_string'
+a = ('my_string')
 print(len(a))
 print(a.upper())
 print(a.lower())
-print(a.replace('_',''))
+print(a.replace('_',' '))
 print(a [0])
-print(a [8])
+print(a [-1])
+
+
 
 
 
